@@ -9,7 +9,7 @@ version = "0.1.0"
 entry = "plugin.plugins.neko_translate:NekoTranslatePlugin"
 
 [plugin.author]
-name = "N.E.K.O Community"
+name = "yousei1216"
 
 [plugin.sdk]
 recommended = ">=0.1.0,<0.2.0"
